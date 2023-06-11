@@ -15,9 +15,9 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
-<img src="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/SQlite-003B57?style=flat&logo=SQlite&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
