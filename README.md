@@ -5,7 +5,7 @@
 ### **Experience** ✨
 
 <p style="font-size: 13px">삼성 SW 아카데미 9기 2023.01 ~ </p>
-
+<p style="font-size: 13px">삼성 청년 SW아카데미 프로젝트 경진대회 1학기 프로젝트 우수상 2023.05.17 - 2023.05.25 </p>
 
 ### **Studying** 📚
 
