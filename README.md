@@ -26,10 +26,9 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"><br>
   
 <img src="https://img.shields.io/badge/SQlite-003B57?style=flat&logo=SQlite&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"><br>
 
   <br>
-  
 
 ### **GitHub Stats** 📊
 
