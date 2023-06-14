@@ -51,6 +51,6 @@
 <a href="mailto:hwchoi3355@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hwchoi3355@gmail.com"></a>
 <a href="https://velog.io/@sh93"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun1h&layout=donut&theme=buefy)](https://github.com/sun1h/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun1h&layout=donut)](https://github.com/sun1h/github-readme-stats)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun1h&layout=compact&theme=buefy)
+
