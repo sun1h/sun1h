@@ -36,7 +36,7 @@
 
 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun1h&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sun1h&layout=compact&theme=tokyonight)
 <br>
 
 ### **Baekjoon**
