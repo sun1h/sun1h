@@ -36,7 +36,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun1h&layout=donut)](https://github.com/sun1h/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun1h&layout=compact)](https://github.com/sun1h/github-readme-stats)
 
 <br>
 
