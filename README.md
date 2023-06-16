@@ -45,7 +45,7 @@
 ### **Baekjoon**
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sh9_3)](https://solved.ac/sh9_3)
-[![solved.ac problem solving](http://mazandi.herokuapp.com/api?handle=sh9_3&theme=cold)](https://solved.ac/sh9_3)
+<!-- [![solved.ac problem solving](http://mazandi.herokuapp.com/api?handle=sh9_3&theme=cold)](https://solved.ac/sh9_3) -->
 
 <h2></h2>
 
