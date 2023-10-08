@@ -7,7 +7,7 @@
 <p style="font-size: 13px">삼성 SW 아카데미 9기 2023.01 ~ </p>
 <!-- <a https://github.com/sun1h/MovieProject<p style="font-size: 13px">삼성 청년 SW아카데미 프로젝트 경진대회 1학기 프로젝트 우수상 2023.05.17 - 2023.05.25 </p> -->
 <a href="https://github.com/sun1h/MovieProject"style="font-size: 13px" >삼성 청년 SW아카데미 프로젝트 경진대회 1학기 프로젝트 우수상</a>
-<p style="font-size: 13px" >삼성 청년 SW아카데미 프로젝트 경진대회 공통 프로젝트 1등 우수상</p>
+<p style="font-size: 13px" >삼성 청년 SW아카데미 공통 프로젝트 1등 우수상 ( 트랙 : 모바일 ) </p>
 
   <br>
   
