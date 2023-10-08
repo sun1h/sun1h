@@ -32,10 +32,10 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"><br>
 
   <br>
-
-### **GitHub Stats** 📊
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sun1h&show_icons=true)
+<!-- 
+### **GitHub Stats** 📊-->
+<!-- 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sun1h&show_icons=true)-->
 
 <br>
 
