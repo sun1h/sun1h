@@ -15,7 +15,7 @@
 <a href="https://github.com/sun1h/Have-It"><p style="font-size: 13px" >삼성 청년 SW아카데미 특화 프로젝트 1등 우수상 ( 트랙 : 메타버스 ) </p></a>
 <a href="https://github.com/sun1h/SSTUDE"><p style="font-size: 13px" >삼성 청년 SW아카데미 자율 프로젝트 전국 입상 ( 트랙 : 자유주제 ) </p></a>
 
-
+<!--
   <br>
   
   
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/SQlite-003B57?style=flat&logo=SQlite&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"><br>
 
-  <br>
+  <br> -->
 <!-- 
 ### **GitHub Stats** 📊-->
 <!-- 
@@ -50,13 +50,14 @@
 
 <br>
  
-
+<!-- 
 
 ### **Baekjoon**
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=sh9_3)](https://solved.ac/sh9_3)
 <!-- [![solved.ac problem solving](http://mazandi.herokuapp.com/api?handle=sh9_3&theme=cold)](https://solved.ac/sh9_3) -->
 
+<!-- 
 <h2></h2>
 
 </div><br>
@@ -65,5 +66,5 @@
 <a href="mailto:hwchoi3355@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:hwchoi3355@gmail.com"></a>
 <a href="https://velog.io/@sh93"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"></a>
 
-
+ -->
 
