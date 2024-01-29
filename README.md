@@ -13,6 +13,7 @@
 <!-- <a href="https://github.com/sun1h/MovieProject"style="font-size: 13px" >📌 </a> <p style="font-size: 13px" >삼성 청년 SW아카데미 공통 프로젝트 1등 우수상 ( 트랙 : 모바일 ) </p> -->
 <a href="https://github.com/sun1h/i-likloud"style="font-size: 13px" >삼성 청년 SW아카데미 공통 프로젝트 1등 우수상 ( 트랙 : 모바일 )</a>
 <a href="https://github.com/sun1h/Have-It"><p style="font-size: 13px" >삼성 청년 SW아카데미 특화 프로젝트 1등 우수상 ( 트랙 : 메타버스 ) </p></a>
+<a href="https://github.com/sun1h/SSTUDE"><p style="font-size: 13px" >삼성 청년 SW아카데미 자율 프로젝트 전국 입상 ( 트랙 : 자유주제 ) </p></a>
 
 
   <br>
